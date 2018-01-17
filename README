@@ -1,0 +1,7 @@
+to run: ./doit.sh
+(in a new year, edit the script to reflect that)
+
+data will be in ./data/v6percountry-$YEAR-$MON.txt
+
+to put the data live on the external website v6asns.ripe.net:
+make data-install
